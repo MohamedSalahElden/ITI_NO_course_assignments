@@ -1,15 +1,6 @@
 {
  "cells": [
   {
-   "cell_type": "markdown",
-   "metadata": {},
-   "source": [
-    "# <center> practical session 2,3</center>\n",
-    "###### name  : Mohamed Salah-el-den Hussien\n",
-    "###### group : 5 "
-   ]
-  },
-  {
    "cell_type": "code",
    "execution_count": 409,
    "metadata": {},
